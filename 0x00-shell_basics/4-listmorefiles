@@ -1,2 +1,2 @@
 #!/bin/bash
-al flag
+al -a 
