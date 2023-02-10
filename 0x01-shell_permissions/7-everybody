@@ -1,2 +1,2 @@
-#!/bin/bash 4-empty
+#!/bin/bash
 chmod ugo+x hello
